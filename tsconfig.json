@@ -4,7 +4,7 @@
     "module": "ESNext",
     "moduleResolution": "bundler",
     "lib": ["ESNext"],
-    "types": [],
+    "types": ["node"],
     "strict": true,
     "noUnusedLocals": true,
     "noEmit": true,
